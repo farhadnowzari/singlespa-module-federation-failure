@@ -1,0 +1,6 @@
+{
+    "name": "app1",
+    "exposes": {
+        "./AppCard.vue": "./src/components/AppCard.vue"
+    }
+}
